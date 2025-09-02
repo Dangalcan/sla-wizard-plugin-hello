@@ -1,2 +1,9 @@
 # sla-wizard-plugin-hello
-This is a simple test. 
+
+Example plugin for sla-wizard that adds `hello` command.
+
+## Install
+
+```bash
+npm install sla-wizard-plugin-hello
+```

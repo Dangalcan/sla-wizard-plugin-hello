@@ -1,0 +1,22 @@
+{
+  "name": "sla-wizard-plugin-hello",
+  "version": "1.0.0",
+  "description": "Example plugin fro sla-wizard that adds 'hello' command.",
+  "main": "index.js",
+  "keywords": [
+    "sla-wizard",
+    "plugin",
+    "cli",
+    "hello"
+  ],
+  "author": "Dangalcan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dangalcan/sla-wizard-plugin-hello.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dangalcan/sla-wizard-plugin-hello/issues"
+  },
+  "homepage": "https://github.com/Dangalcan/sla-wizard-plugin-hello#readme"
+}
